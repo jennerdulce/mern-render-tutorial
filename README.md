@@ -115,3 +115,4 @@ export default App;
 - If the message from your backend is displayed, that means there is a successful connection
 
 ## Deploy to Render
+- Refer to `Render Images` folder
