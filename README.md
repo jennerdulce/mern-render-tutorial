@@ -116,3 +116,4 @@ export default App;
 
 ## Deploy to Render
 - Refer to `Render Images` folder
+- Build command should be `npm install && npm install --prefix frontend && npm run build --prefix frontend`
